@@ -1,5 +1,116 @@
 {
-  "movies":[],
+  "movies": [
+    {
+      "vote_average": 5.9,
+      "vote_count": 108,
+      "id": 9096,
+      "video": false,
+      "media_type": "movie",
+      "title": "Medicine Man",
+      "popularity": 1.668679,
+      "poster_path": "/lQAvyFcppZhqbz5coICwfbgcylY.jpg",
+      "original_language": "en",
+      "original_title": "Medicine Man",
+      "genre_ids": [
+        12
+      ],
+      "backdrop_path": "/j8IDDOzTW3IUcwAUqDRWyFLnVIo.jpg",
+      "adult": false,
+      "overview": "An eccentric scientist working for a large drug company is working on a research project in the Amazon jungle. He sends for a research assistant and a gas chromatograph because he's close to a cure for cancer. When the assistant turns out to be a \"mere woman,\" he rejects her help. Meanwhile the bulldozers get closer to the area in which they are conducting research, and they eventually learn to work together, and begin falling in love.",
+      "release_date": "1992-02-07",
+      "_id": 1
+    },
+    {
+      "vote_average": 5.8,
+      "vote_count": 176,
+      "id": 7007,
+      "video": false,
+      "media_type": "movie",
+      "title": "Rising Sun",
+      "popularity": 1.687614,
+      "poster_path": "/d07rjd7e54ClVLoixmf6alTiDDj.jpg",
+      "original_language": "en",
+      "original_title": "Rising Sun",
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "backdrop_path": "/b3Te0cO00JJmw16LQxoLa8hbs0R.jpg",
+      "adult": false,
+      "overview": "When a prostitute is found dead in a Los Angeles skyscraper occupied by a large Japanese corporation, detectives John Conner and Web Smith are called in to investigate. Although Conner has previous experience working in Japan, cultural differences make their progress difficult until a security disc showing the murder turns up. Close scrutiny proves the disc has been doctored, and the detectives realize they're dealing with a cover-up as well.",
+      "release_date": "1993-07-30",
+      "_id": 2
+    },
+    {
+      "vote_average": 5.9,
+      "vote_count": 1302,
+      "id": 64686,
+      "video": false,
+      "media_type": "movie",
+      "title": "47 Ronin",
+      "popularity": 3.321674,
+      "poster_path": "/pUH46wa0n4zXZytpriSaoNUXai4.jpg",
+      "original_language": "en",
+      "original_title": "47 Ronin",
+      "genre_ids": [
+        18,
+        28,
+        12,
+        14
+      ],
+      "backdrop_path": "/4cmPIw1EMGx8CiPgZx9vdLhFpT5.jpg",
+      "adult": false,
+      "overview": "Based on the original 1941 movie from Japan, and from ancient Japan’s most enduring tale, the epic 3D fantasy-adventure 47 Ronin is born.  Keanu Reeves leads the cast as Kai, an outcast who joins Oishi (Hiroyuki Sanada), the leader of the 47 outcast samurai.  Together they seek vengeance upon the treacherous overlord who killed their master and banished their kind.  To restore honor to their homeland, the warriors embark upon a quest that challenges them with a series of trials that would destroy ordinary warriors.",
+      "release_date": "2013-12-06",
+      "_id": 3
+    },
+    {
+      "vote_average": 6.6,
+      "vote_count": 1729,
+      "id": 561,
+      "video": false,
+      "media_type": "movie",
+      "title": "Constantine",
+      "popularity": 4.800263,
+      "poster_path": "/qYTerimWp1t1zSEKknn9mByhwbX.jpg",
+      "original_language": "en",
+      "original_title": "Constantine",
+      "genre_ids": [
+        18,
+        14,
+        27
+      ],
+      "backdrop_path": "/bGXup8uvaIrp6mLisZ8AJtl6DNA.jpg",
+      "adult": false,
+      "overview": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
+      "release_date": "2005-02-08",
+      "_id": 4
+    },
+    {
+      "original_name": "Adventure Time",
+      "id": 15260,
+      "media_type": "tv",
+      "name": "Adventure Time",
+      "vote_count": 95,
+      "vote_average": 6.65,
+      "poster_path": "/80G8BH8SOSW59J6mZka4XVzg7zI.jpg",
+      "first_air_date": "2010-04-05",
+      "popularity": 5.484611,
+      "genre_ids": [
+        14,
+        16,
+        35
+      ],
+      "original_language": "en",
+      "backdrop_path": "/z04MAaCOspXkhrJ9hwgozsliPMf.jpg",
+      "overview": "Adventure Time is an American animated television series created by Pendleton Ward for Cartoon Network. The series follows the adventures of Finn, a human boy, and his best friend and adoptive brother Jake, a dog with magical powers to change shape and grow and shrink at will. Finn and Jake live in the post-apocalyptic Land of Ooo. Along the way, they interact with the other main characters of the show: Princess Bubblegum, The Ice King, and Marceline the Vampire Queen.",
+      "origin_country": [
+        "US"
+      ],
+      "_id": 5
+    }
+  ],
   "posts": [
     {
       "id": 1,

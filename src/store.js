@@ -1,10 +1,14 @@
-//we have decided that we are using redux so we have to install and  import it
-import {createStore} from 'redux';
-//we need our data to put in the database
 import state from "./state";
-
 import reducers from "./reducers";
+import {createStore, applyMiddleware, compose} from "redux";
+import thunk from "redux-thunk";
 
-var store = createStore(reducers, state, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__());
-
+const composeEnhancers =
+ typeof window === "object" &&
+ window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ ?
+   window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__({}) : compose;
+const enhancer = composeEnhancers(
+ applyMiddleware(thunk)
+);
+const store = createStore(reducers,state,enhancer);
 export default store;
